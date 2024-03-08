@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AMIT KUMAR YADAV</h1>
-<h3 align="center">BE MAN WHO EMBRACES THE UGLY</h3>
+<h3 align="center">BE THE MAN WHO EMBRACES THE UGLY</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/its-aky](https://github.com/its-aky)
 
